@@ -1,15 +1,22 @@
-#include "raylib.h"
+
 #include <stdio.h>
+#define __BUTTON_IMPL__
+#define __NetWorkInfo_IMPL__
+#include "button.h"
+#include "networkinfo.h"
+
+
+#include "raylib.h"
 #include <cstdio>
 #include <iostream>
-#include <memory>
-#include <stdexcept>
+//#include <memory>
+//#include <stdexcept>
 #include <string>
 #include <array>
 #include <vector>
 #include <thread>
 
-#define NUM_FRAMES  4       // Number of frames (rectangles) for the button sprite texture
+/*#define NUM_FRAMES  4       // Number of frames (rectangles) for the button sprite texture
 
 std::string exec(const char* cmd) {
     std::array<char, 128> buffer;
@@ -125,7 +132,7 @@ int main(void)
         // Update
         //----------------------------------------------------------------------------------
         mousePoint = GetMousePosition();
-        btnState_toggle = false;
+        //btnState_toggle = false;
 
         // Check button state
         if (btn_on_off_toggle) {
@@ -171,6 +178,7 @@ int main(void)
                     PlaySound(button_sound);
                     if (first.joinable())
                         first.join();
+                        //continue;
                     first = std::thread(button_push_execution);
                     //first.join();
                 }
@@ -240,4 +248,15 @@ int main(void)
 
     return 0;
 }
+*/
 
+int main(void) {
+    const char* NetConfigPath = "D:/GameDev/ButtonPanel/ButtonPanel/Resosrces/NetworkInfo.ini";
+    NetWorkInfo NetConfig = NetWorkInfo(NetConfigPath);
+    if (NetConfig.GetObjectStatus()) {
+        std::cout << "ERROR: TO CHECK DATA\n";
+        return -1;
+    }
+    NetConfig.CheckFileContent();
+    return 0;
+}
