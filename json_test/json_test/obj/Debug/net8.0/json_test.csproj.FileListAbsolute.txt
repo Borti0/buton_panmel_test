@@ -1,0 +1,14 @@
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.AssemblyInfoInputs.cache
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.AssemblyInfo.cs
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.csproj.CoreCompileInputs.cache
+D:\GameDev\c#_tests\json_test\json_test\bin\Debug\net8.0\json_test.exe
+D:\GameDev\c#_tests\json_test\json_test\bin\Debug\net8.0\json_test.deps.json
+D:\GameDev\c#_tests\json_test\json_test\bin\Debug\net8.0\json_test.runtimeconfig.json
+D:\GameDev\c#_tests\json_test\json_test\bin\Debug\net8.0\json_test.dll
+D:\GameDev\c#_tests\json_test\json_test\bin\Debug\net8.0\json_test.pdb
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.dll
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\refint\json_test.dll
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.pdb
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\json_test.genruntimeconfig.cache
+D:\GameDev\c#_tests\json_test\json_test\obj\Debug\net8.0\ref\json_test.dll

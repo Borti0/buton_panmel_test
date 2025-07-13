@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameDev\\c#_tests\\udp_server_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED77A953-DE30-411A-9ED1-4B8CF084C807}|udp_server_test\\udp_server_test.csproj|d:\\gamedev\\c#_tests\\udp_server_test\\udp_server_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED77A953-DE30-411A-9ED1-4B8CF084C807}|udp_server_test\\udp_server_test.csproj|solutionrelative:udp_server_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GameDev\\c#_tests\\udp_server_test\\udp_server_test\\Program.cs",
+              "RelativeDocumentMoniker": "udp_server_test\\Program.cs",
+              "ToolTip": "D:\\GameDev\\c#_tests\\udp_server_test\\udp_server_test\\Program.cs",
+              "RelativeToolTip": "udp_server_test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:51:10.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

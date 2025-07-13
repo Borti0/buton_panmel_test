@@ -1,0 +1,14 @@
+D:\GameDev\c#_tests\thread-test\thread-test\bin\Debug\net8.0\thread-test.exe
+D:\GameDev\c#_tests\thread-test\thread-test\bin\Debug\net8.0\thread-test.deps.json
+D:\GameDev\c#_tests\thread-test\thread-test\bin\Debug\net8.0\thread-test.runtimeconfig.json
+D:\GameDev\c#_tests\thread-test\thread-test\bin\Debug\net8.0\thread-test.dll
+D:\GameDev\c#_tests\thread-test\thread-test\bin\Debug\net8.0\thread-test.pdb
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.AssemblyInfoInputs.cache
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.AssemblyInfo.cs
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.csproj.CoreCompileInputs.cache
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.dll
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\refint\thread-test.dll
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.pdb
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\thread-test.genruntimeconfig.cache
+D:\GameDev\c#_tests\thread-test\thread-test\obj\Debug\net8.0\ref\thread-test.dll

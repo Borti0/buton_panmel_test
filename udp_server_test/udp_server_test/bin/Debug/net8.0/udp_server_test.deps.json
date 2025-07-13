@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "udp_server_test/1.0.0": {
+        "runtime": {
+          "udp_server_test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "udp_server_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
